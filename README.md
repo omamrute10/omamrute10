@@ -1,211 +1,226 @@
-<h1 align="center">Hi 👋, I'm Om Amrute</h1>
-
-<h3 align="center">☁️ Cloud & DevOps Engineer</h3>
-
-
+<!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=150&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Automation&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Om%20Amrute&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descSize=22&descAlignY=60" alt="Om Amrute banner"/>
 </p>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://github.com/omamrute10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Engineer+in+the+making;%F0%9F%90%B3+Containerizing+apps+with+Docker;%E2%98%B8%EF%B8%8F+Orchestrating+workloads+on+Kubernetes+%28EKS%29;%E2%9A%99%EF%B8%8F+Automating+infra+with+Terraform+%26+Ansible;%F0%9F%9A%80+Shipping+with+CI%2FCD+pipelines" alt="Typing animation"/>
+  </a>
+</p>
 
-I'm a **Cloud Computing student** focused on building practical skills in **Cloud Engineering, DevOps, Containerization, networking, security and Automation**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omamrute10&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/omamrute10?style=for-the-badge&logo=github&color=6366f1" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--level-a855f7?style=for-the-badge" alt="Open to work"/>
+</p>
 
-I enjoy working with cloud infrastructure, deploying applications, automating environments, and learning how production systems are designed and operated.
-
-* 🎓 Currently pursuing **TY BSc Cloud Computing**
-* ☁️ Cloud focus: **AWS & Multi Cloud**
-* ⚙️ DevOps focus: **Docker, Kubernetes, Terraform, CI/CD, Observability & Monitoring**
-* 🐧 Comfortable with **Linux & Networking-security fundamentals**
-* 🔧 Interested in **Infrastructure Automation and Cloud Deployment**
-* 🌍 Currently exploring **DevOps & Multi-Cloud**
-* 📌 Building practical cloud projects for my portfolio
-* 📫 Reach me at **[omamrute10@gmail.com](mailto:omamrute10@gmail.com)**
+<p align="center">
+  <a href="mailto:omamrute10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omamrute10%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/omamrute10">
+    <img src="https://img.shields.io/badge/GitHub-omamrute10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 💼 Featured Project
+## 👨‍💻 About Me
+
+```bash
+om@cloud:~$ whoami
+> Om Amrute — TY BSc Cloud Computing student & aspiring Cloud / DevOps Engineer
+
+om@cloud:~$ cat focus.txt
+> ☁️  Cloud       : AWS & Multi-Cloud
+> ⚙️  DevOps      : Docker • Kubernetes • Terraform • CI/CD • Observability
+> 🐧 Foundations : Linux • Networking • Security
+> 🎯 Goal        : Build secure, scalable & automated cloud infrastructure
+
+om@cloud:~$ echo $STATUS
+> 🌱 Building practical cloud projects & learning every day
+```
+
+I enjoy designing cloud infrastructure, deploying applications, automating environments, and understanding how production systems are built and operated.
+
+---
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td>
 
 ### ☁️ Container Orchestration with Kubernetes using AWS
 
-A cloud-native deployment project focused on running and managing containerized applications using **AWS and Kubernetes**.
+A cloud-native deployment project for running and managing containerized applications on **AWS EKS** — covering networking, load balancing, autoscaling, security and monitoring end to end.
 
-**Core technologies:**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
-`Docker` `Kubernetes` `CI/CD` `AWS-services(EKS,ECR,EC2,VPC,ALB,Route53,RDS,CloudWatch,CloudTrail,IAM,CloudFront,S3,EBS,AutoScalling)`
+**AWS services used:**
+`EKS` `ECR` `EC2` `VPC` `ALB` `Route 53` `RDS` `CloudWatch` `CloudTrail` `IAM` `CloudFront` `S3` `EBS` `Auto Scaling`
 
-🔗 **Repository:**
-https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
+<a href="https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS">
+  <img src="https://img.shields.io/badge/View%20Repository-%E2%86%92-0ea5e9?style=for-the-badge&logo=github" alt="View repository"/>
+</a>
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Cloud & DevOps Skills
+### 🗺️ High-Level Flow
 
-### ☁️ Cloud Platforms
+```mermaid
+flowchart LR
+    U([👤 User]) --> R53[Route 53]
+    R53 --> CF[CloudFront]
+    CF --> ALB[Application Load Balancer]
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud"/>
-  </a>
-</p>
+    subgraph VPC["🔒 AWS VPC"]
+        ALB --> EKS{{"☸️ EKS Cluster"}}
+        EKS --> P1[Pods]
+        EKS --> P2[Pods]
+        P1 --> RDS[(Amazon RDS)]
+        P2 --> RDS
+    end
 
-**Multi Cloud core services**
+    DEV([💻 Developer]) --> CI[CI/CD Pipeline]
+    CI --> ECR[(Amazon ECR)]
+    ECR -.pulls image.-> EKS
+    EKS -.metrics & logs.-> CW[CloudWatch]
 
----
-
-### 🐳 Containers & Orchestration
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
-  </a>
-  <a href="https://helm.sh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=helm" width="48" height="48" alt="Helm"/>
-  </a>
-</p>
-
-**Containerization:** Docker, Docker Images, Dockerfiles, Container Networking
-**Orchestration:** Kubernetes, Pods, Deployments, Services, Ingress, HPA, RBAC
-
----
-
-### ⚙️ Infrastructure as Code & Automation
-
-<p align="left">
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible"/>
-  </a>
-</p>
-
-**IaC:** Terraform, AWS Infrastructure Provisioning
-**Automation:** Ansible, Configuration Management, Playbooks, Inventory, SSH Automation
-
----
-
-### 🔄 CI/CD & Version Control
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
-  </a>
-</p>
-
-**Version Control:** Git, GitHub, Branching, Repository Management
-**CI/CD:** Jenkins, GitHub Actions
-
----
-
-### 🐧 Linux, Networking & Monitoring
-
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-</p>
-
-**Linux:** Linux Administration, SSH, Processes, Filesystems, Permissions, Package Management
-**Networking:** IP Addressing, Subnets, Routing, DNS, Firewall,Security Groups, VPC Networking
-**Monitoring:** CloudWatch, Prometheus-Grafana fundamentals
-
----
-
-### 🗄️ Database & Programming
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
-  </a>
-</p>
-
-**Database:** MySQL
-**Programming:** Python fundamentals, Bash/Shell scripting basics
-**Web:** HTML basics
-
----
-
-## 🧰 Tech Stack
-
-```text
-Cloud          → AWS | Azure | Google Cloud
-Containers     → Docker | Kubernetes
-IaC            → Terraform
-Automation     → Ansible
-CI/CD          → Jenkins | GitHub Actions
-Version Control→ Git | GitHub
-OS             → Linux
-Web/Proxy      → Nginx
-Database       → MySQL | Amazon RDS
-Monitoring     → CloudWatch | Prometheus | Grafana
-Networking     → VPC | Subnets | DNS | Routing | Security Groups
-Security       → IAM | RBAC | Security Fundamentals
+    style EKS fill:#326CE5,color:#fff,stroke:#fff
+    style ALB fill:#FF9900,color:#000
+    style RDS fill:#6366f1,color:#fff
+    style CW fill:#0ea5e9,color:#fff
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github,linux,nginx,prometheus,grafana,mysql,python,bash,html&perline=10" alt="Tech stack icons"/>
+</p>
+
+<details open>
+<summary><b>☁️ Cloud & Containers</b></summary>
+<br>
+
+| Area | Skills |
+|------|--------|
+| ☁️ **Cloud Platforms** | AWS (primary) • Azure • Google Cloud — multi-cloud core services |
+| 🐳 **Containerization** | Docker, Dockerfiles, Images, Container Networking |
+| ☸️ **Orchestration** | Kubernetes — Pods, Deployments, Services, Ingress, HPA, RBAC • Helm |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Automation & Delivery</b></summary>
+<br>
+
+| Area | Skills |
+|------|--------|
+| 🏗️ **Infrastructure as Code** | Terraform, AWS Infrastructure Provisioning |
+| 🤖 **Config Management** | Ansible — Playbooks, Inventory, SSH Automation |
+| 🔄 **CI/CD** | Jenkins, GitHub Actions |
+| 🌿 **Version Control** | Git, GitHub, Branching, Repository Management |
+
+</details>
+
+<details open>
+<summary><b>🐧 Systems, Networking & Observability</b></summary>
+<br>
+
+| Area | Skills |
+|------|--------|
+| 🐧 **Linux** | Administration, SSH, Processes, Filesystems, Permissions, Package Management |
+| 🌐 **Networking** | IP Addressing, Subnets, Routing, DNS, Firewalls, Security Groups, VPC |
+| 🔐 **Security** | IAM, RBAC, Security Fundamentals |
+| 📈 **Monitoring** | CloudWatch, Prometheus & Grafana fundamentals |
+| 🗄️ **Database** | MySQL, Amazon RDS |
+| 💻 **Programming** | Python fundamentals, Bash/Shell scripting, HTML basics, Nginx |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omamrute10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omamrute10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omamrute10&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omamrute10&theme=tokyo-night&hide_border=true&area=true&color=0ea5e9&line=6366f1&point=ffffff" alt="Contribution activity graph" width="100%"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-🔹 Advanced AWS Architecture
-🔹 DevOps & CI/CD
-🔹 Kubernetes & Container Orchestration
-🔹 Infrastructure as Code
-🔹 Cloud Automation
-🔹 Multi-Cloud Technologies
-🔹 Monitoring & Observability
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20AWS%20Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
 
 ---
 
 ## 🎯 Career Goal
 
-> **To become a Cloud / DevOps Engineer and build secure, scalable and automated cloud infrastructure.**
+<p align="center">
+  <i>"To become a Cloud / DevOps Engineer and build secure, scalable and automated cloud infrastructure."</i>
+</p>
 
-I'm particularly interested in:
-
-`Cloud Infrastructure` • `DevOps` • `AWS` • `Kubernetes` • `Infrastructure as Code` • `Automation`
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:[omamrute10@gmail.com](mailto:omamrute10@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-omamrute10%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <code>Cloud Infrastructure</code> • <code>DevOps</code> • <code>AWS</code> • <code>Kubernetes</code> • <code>Infrastructure as Code</code> • <code>Automation</code>
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Open to <b>internships</b>, <b>collaborations</b> and conversations about <b>Cloud & DevOps</b>.
+</p>
+
+<p align="center">
+  <a href="mailto:omamrute10@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hello-omamrute10%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
+</p>
 
 <p align="center">
   <b>☁️ Building in the cloud. ⚙️ Automating infrastructure. 🚀 Learning every day.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:a855f7&height=120&section=footer&animation=twinkling" alt="Footer"/>
 </p>
