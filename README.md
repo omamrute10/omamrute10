@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Amrute</h1>
 
-<h3 align="center">☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Docker | Terraform | Ansible</h3>
+<h3 align="center">☁️ Cloud & DevOps Engineer</h3>
 
-<p align="center">
-  <a href="https://github.com/omamrute10">
-    <img src="https://komarev.com/ghpvc/?username=omamrute10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/omamrute10">
-    <img src="https://img.shields.io/github/followers/omamrute10?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=150&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Automation&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
@@ -17,14 +9,14 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud Computing student** focused on building practical skills in **Cloud Engineering, DevOps, Containerization, Infrastructure as Code, and Automation**.
+I'm a **Cloud Computing student** focused on building practical skills in **Cloud Engineering, DevOps, Containerization, networking, security and Automation**.
 
 I enjoy working with cloud infrastructure, deploying applications, automating environments, and learning how production systems are designed and operated.
 
 * 🎓 Currently pursuing **TY BSc Cloud Computing**
-* ☁️ Cloud focus: **AWS**
-* ⚙️ DevOps focus: **Docker, Kubernetes, Terraform & Ansible**
-* 🐧 Comfortable with **Linux & Networking fundamentals**
+* ☁️ Cloud focus: **AWS & Multi Cloud**
+* ⚙️ DevOps focus: **Docker, Kubernetes, Terraform, CI/CD, Observability & Monitoring**
+* 🐧 Comfortable with **Linux & Networking-security fundamentals**
 * 🔧 Interested in **Infrastructure Automation and Cloud Deployment**
 * 🌍 Currently exploring **DevOps & Multi-Cloud**
 * 📌 Building practical cloud projects for my portfolio
@@ -40,7 +32,7 @@ A cloud-native deployment project focused on running and managing containerized 
 
 **Core technologies:**
 
-`AWS` `EKS` `EC2` `VPC` `Docker` `Kubernetes` `ALB` `Route 53` `RDS` `CloudWatch` `CloudTrail`
+`Docker` `Kubernetes` `CI/CD` `AWS-services(EKS,ECR,EC2,VPC,ALB,Route53,RDS,CloudWatch,CloudTrail,IAM,CloudFront,S3,EBS,AutoScalling)`
 
 🔗 **Repository:**
 https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
@@ -63,7 +55,7 @@ https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
   </a>
 </p>
 
-**AWS:** EC2, VPC, IAM, S3, RDS, EKS, ALB, Route 53, CloudWatch, CloudTrail and other core AWS services
+**Multi Cloud core services**
 
 ---
 
@@ -95,12 +87,9 @@ https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
   <a href="https://www.ansible.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
-  </a>
 </p>
 
-**IaC:** Terraform, AWS Infrastructure Provisioning, Variables, Outputs, Modules, State Management
+**IaC:** Terraform, AWS Infrastructure Provisioning
 **Automation:** Ansible, Configuration Management, Playbooks, Inventory, SSH Automation
 
 ---
@@ -132,21 +121,11 @@ https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
 <p align="left">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-  </a>
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
-  </a>
 </p>
 
 **Linux:** Linux Administration, SSH, Processes, Filesystems, Permissions, Package Management
-**Networking:** IP Addressing, Subnets, Routing, DNS, Security Groups, VPC Networking
-**Monitoring:** CloudWatch, Prometheus, Grafana fundamentals
+**Networking:** IP Addressing, Subnets, Routing, DNS, Firewall,Security Groups, VPC Networking
+**Monitoring:** CloudWatch, Prometheus-Grafana fundamentals
 
 ---
 
@@ -164,9 +143,9 @@ https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
   </a>
 </p>
 
-**Database:** MySQL, RDS fundamentals
+**Database:** MySQL
 **Programming:** Python fundamentals, Bash/Shell scripting basics
-**Web:** HTML
+**Web:** HTML basics
 
 ---
 
@@ -174,9 +153,9 @@ https://github.com/omamrute10/Container-Orchestration-with-Kubernetes-using-AWS
 
 ```text
 Cloud          → AWS | Azure | Google Cloud
-Containers     → Docker | Kubernetes | Helm
+Containers     → Docker | Kubernetes
 IaC            → Terraform
-Automation     → Ansible | Bash
+Automation     → Ansible
 CI/CD          → Jenkins | GitHub Actions
 Version Control→ Git | GitHub
 OS             → Linux
@@ -213,35 +192,11 @@ I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omamrute10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omamrute10&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omamrute10&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omamrute10&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:[omamrute10@gmail.com](mailto:omamrute10@gmail.com)">
     <img src="https://img.shields.io/badge/Email-omamrute10%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/omamrute10">
-    <img src="https://img.shields.io/badge/GitHub-omamrute10-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
