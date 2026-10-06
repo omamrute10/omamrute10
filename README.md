@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omamrute10&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/omamrute10?style=for-the-badge&logo=github&color=6366f1" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--level-a855f7?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--level--jobs-a855f7?style=for-the-badge" alt="Open to work"/>
 </p>
 
 <p align="center">
@@ -150,33 +148,13 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omamrute10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omamrute10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omamrute10&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omamrute10&theme=tokyo-night&hide_border=true&area=true&color=0ea5e9&line=6366f1&point=ffffff" alt="Contribution activity graph" width="100%"/>
-</p>
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20AWS%20Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced%20Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multi--Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 </p>
 
 ---
@@ -188,27 +166,16 @@ flowchart LR
 </p>
 
 <p align="center">
-  <code>Cloud Infrastructure</code> • <code>DevOps</code> • <code>AWS</code> • <code>Kubernetes</code> • <code>Infrastructure as Code</code> • <code>Automation</code>
+  <code>Cloud Infrastructure</code> • <code>DevOps</code> • <code>Multi Cloud</code> • <code>Automation</code>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/omamrute10/omamrute10/output/github-snake-dark.svg"/>
-  </picture>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  Open to <b>internships</b>, <b>collaborations</b> and conversations about <b>Cloud & DevOps</b>.
+  Open to <b>internships</b>, <b>Entry-level jobs</b>
 </p>
 
 <p align="center">
